@@ -8,7 +8,6 @@ class CrudOperations extends Component {
     index: "",
     datas: [],
   };
-  
 
   /*
   handleChange = (event) => {
