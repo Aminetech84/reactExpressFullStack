@@ -1,0 +1,15 @@
+{
+  "name": "reactexpressgraphql",
+  "version": "0.0.0",
+  "description": "starter pack for full stack apps that work with React, Express and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Amine Ouldaouali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0"
+  }
+}
